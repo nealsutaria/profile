@@ -1,0 +1,89 @@
+body {
+  background-color: #EEB0A6;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color:  #7d7d7d;
+  line-height: 1.5em;
+}
+
+h1 {
+  color: #FF42FF;
+  font-size: 25px;
+}
+
+h2 {
+  color: #FF1925;
+  font-size: 20px;
+}
+
+h3 {
+  color: #0B1F84;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #CE4F1C;
+}
+
+a:hover {
+
+  color: #121A55;
+}
+
+
+
+
+#movies{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1em;
+}
+
+#movies img {
+  margin-bottom: 1em;
+  border: 3px solid #cccccc;
+
+}
+#movies p {
+  padding-left: 2em;
+}
+#movies h3 {
+  padding-left: 2em;
+}
+.container{
+  width: 500px;
+  margin: auto;
+}
+
+.card{
+  text-align: center;
+  background: white;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 30px;
+
+}
+
+.list-inline li i {
+  font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
